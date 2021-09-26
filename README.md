@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Herkulisch
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning IT
+- 👀 I’m interested in IT (Emulators right now)
+- 🌱 I’m currently learning IT (Emulation)
 - 💞️ I’m looking to collaborate on OS Stuff, Rust Stuff, Flutter Stuff
 - 📫 How to reach me; You'll figure it out 😉
 
